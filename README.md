@@ -1,5 +1,7 @@
 # React native grpc protobuf to bridge transpiler
 
+# Repository moved to https://github.com/cbpetersen/react-native-grpc-bridge-generator
+
 [![Build Status](https://travis-ci.org/drivr/react-native-grpc-bridge-generator.svg?branch=master)](https://travis-ci.org/drivr/react-native-grpc-bridge-generator)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![codecov](https://codecov.io/gh/drivr/react-native-grpc-bridge-generator/branch/master/graph/badge.svg)](https://codecov.io/gh/drivr/react-native-grpc-bridge-generator)
